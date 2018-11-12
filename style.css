@@ -12,7 +12,6 @@ html,body{
   background-color:#81C784;
   width:100%; height:100%;
   padding :0px;  margin:0px;
-  border-bottom:solid 20px #eee;
   box-sizing:border-box;
 }
 .NameCard{
@@ -91,4 +90,7 @@ html,body{
   border:solid 6px;
   color:rgba(0,0,0,0.15);
   box-sizing:border-box;
+}
+.Line{
+  border-bottom:solid 20px #eee;
 }
