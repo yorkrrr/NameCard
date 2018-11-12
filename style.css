@@ -92,5 +92,8 @@ html,body{
   box-sizing:border-box;
 }
 .Line{
+  position:fixed;
+  bottom:0px;
   border-bottom:solid 20px #eee;
+  box-sizing:border-box;
 }
